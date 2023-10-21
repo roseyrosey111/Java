@@ -62,7 +62,7 @@ String []s=str.split(" ");
 for(int i=0;i<s.length;i++)
 {
 	c++;
-	
+	//
 }
 
 System.out.println("No of words "+c);
